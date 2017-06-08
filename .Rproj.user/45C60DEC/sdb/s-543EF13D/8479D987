@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "authors_at_r <- paste0(\n  \"'\", \n  person(\"Martin\", \"Bel\", email = \"m4rbel.gmail.com\",\n         role = c(\"aut\", \"cre\")), \n  \"'\"\n)\noptions(devtools.desc.author=authors_at_r)\n",
+    "created" : 1496951548876.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2449569209",
+    "id" : "8479D987",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1496951569203,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
