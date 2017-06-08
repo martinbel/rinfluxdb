@@ -46,8 +46,8 @@ dbGetQuery <- function(con,
       warning(rawToChar(response$content))
     stop("Influx query failed with HTTP status code ", response$status_code)
   } else {
-    DT = try(parse_response(response, return_datatable=return_datatable), silent=TRUE)
-    if(class(DT) != 'try-error'){
+    DT = parse_response(response, return_datatable=return_datatable)
+    if(is.data.frame(DT)){
       return(DT)
     } else {
       return(response)
