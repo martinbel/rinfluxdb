@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "Package: rinfluxdb\nType: Minimalistic influxDB R client\nTitle: Uses the HTTP API to query influxDB\nVersion: 0.1.0\nAuthor: martin bel\nMaintainer: martin bel <m4rbel [at] gmail [dot] com>\nDescription: Minimalistic influxDB R client based on the HTTP API\nLicense: MIT\nEncoding: UTF-8\nLazyData: true\nImports:\n    data.table,\n    httr,\n    jsonlite\n",
+    "contents" : "Package: rinfluxdb\nType: Minimalistic influxDB R client\nTitle: Uses the HTTP API to query influxDB\nVersion: 0.1.0\nAuthor: martin bel\nMaintainer: martin bel <m4rbel.gmail.com>\nDescription: Minimalistic influxDB R client based on the HTTP API\nLicense: MIT\nEncoding: UTF-8\nLazyData: true\nImports:\n    data.table,\n    httr,\n    jsonlite\n",
     "created" : 1496950706706.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2649169373",
+    "hash" : "3020535172",
     "id" : "CEA4F7DD",
-    "lastKnownWriteTime" : 1496950844,
-    "last_content_update" : 1496950844291,
+    "lastKnownWriteTime" : 1496951030,
+    "last_content_update" : 1496951030904,
     "path" : "~/Desktop/dm/freelance/pedro/dev/iot/rinfluxdb/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
